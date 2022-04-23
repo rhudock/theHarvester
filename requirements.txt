@@ -1,1 +1,3 @@
 -r requirements/base.txt
+
+uvloop~=0.16.0
